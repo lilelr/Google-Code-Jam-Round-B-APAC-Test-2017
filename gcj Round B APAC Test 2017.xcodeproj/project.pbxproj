@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DE56C49A1D785136003B445D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE56C4991D785136003B445D /* main.cpp */; };
+		DE56C4A41D785A3D003B445D /* A.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE56C4A31D785A3D003B445D /* A.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,9 @@
 		DE56C4A01D78516D003B445D /* A-small-practice.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "A-small-practice.in"; sourceTree = "<group>"; };
 		DE56C4A11D785627003B445D /* A-large-practice.out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "A-large-practice.out"; sourceTree = "<group>"; };
 		DE56C4A21D7856A2003B445D /* A-large-practice.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "A-large-practice.in"; sourceTree = "<group>"; };
+		DE56C4A31D785A3D003B445D /* A.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = A.cpp; sourceTree = "<group>"; };
+		DE56C4A51D78623C003B445D /* B-small-practice.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "B-small-practice.in"; sourceTree = "<group>"; };
+		DE56C4A91D786271003B445D /* B-pratice.out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "B-pratice.out"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,10 +64,13 @@
 		DE56C4981D785136003B445D /* gcj Round B APAC Test 2017 */ = {
 			isa = PBXGroup;
 			children = (
+				DE56C4A51D78623C003B445D /* B-small-practice.in */,
 				DE56C4A21D7856A2003B445D /* A-large-practice.in */,
 				DE56C4A01D78516D003B445D /* A-small-practice.in */,
 				DE56C4991D785136003B445D /* main.cpp */,
 				DE56C4A11D785627003B445D /* A-large-practice.out */,
+				DE56C4A31D785A3D003B445D /* A.cpp */,
+				DE56C4A91D786271003B445D /* B-pratice.out */,
 			);
 			path = "gcj Round B APAC Test 2017";
 			sourceTree = "<group>";
@@ -125,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE56C49A1D785136003B445D /* main.cpp in Sources */,
+				DE56C4A41D785A3D003B445D /* A.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
