@@ -16,7 +16,7 @@ LL acnt[100005];
 LL bcnt[100005];
 LL drop[100005];
 
-
+// 快速幂求解算法 a^b mod n
 long long  modExp(long long  a,long long  b,long long  n){
     long long  t,y;
     t = 1; y = a;
