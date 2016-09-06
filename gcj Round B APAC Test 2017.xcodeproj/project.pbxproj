@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE4F27241D7BF135008D79D3 /* B_2 Sherlock and Watson Gym Secrets.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE4F27221D7BF135008D79D3 /* B_2 Sherlock and Watson Gym Secrets.cpp */; };
 		DE56C49A1D785136003B445D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE56C4991D785136003B445D /* main.cpp */; };
 		DE56C4A41D785A3D003B445D /* A.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE56C4A31D785A3D003B445D /* A.cpp */; };
 		DE6C579A1D7971D60040CCA3 /* B_1 Sherlock and Watson Gym Secrets_small.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE6C57991D7971D60040CCA3 /* B_1 Sherlock and Watson Gym Secrets_small.cpp */; };
@@ -25,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DE4F27221D7BF135008D79D3 /* B_2 Sherlock and Watson Gym Secrets.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "B_2 Sherlock and Watson Gym Secrets.cpp"; sourceTree = "<group>"; };
 		DE56C4961D785136003B445D /* gcj Round B APAC Test 2017 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "gcj Round B APAC Test 2017"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE56C4991D785136003B445D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		DE56C4A01D78516D003B445D /* A-small-practice.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "A-small-practice.in"; sourceTree = "<group>"; };
@@ -34,6 +36,9 @@
 		DE56C4A51D78623C003B445D /* B-small-practice.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "B-small-practice.in"; sourceTree = "<group>"; };
 		DE56C4A91D786271003B445D /* B-pratice.out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "B-pratice.out"; sourceTree = "<group>"; };
 		DE6C57991D7971D60040CCA3 /* B_1 Sherlock and Watson Gym Secrets_small.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "B_1 Sherlock and Watson Gym Secrets_small.cpp"; sourceTree = "<group>"; };
+		DEA7C3901D7E41E6007D4CAA /* C-small.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "C-small.in"; sourceTree = "<group>"; };
+		DEA7C3911D7E4210007D4CAA /* C-small.out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "C-small.out"; sourceTree = "<group>"; };
+		DEA7C3921D7E4BFD007D4CAA /* gcj Round B APAC Test 2017 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "gcj Round B APAC Test 2017"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +79,10 @@
 				DE56C4A31D785A3D003B445D /* A.cpp */,
 				DE56C4A91D786271003B445D /* B-pratice.out */,
 				DE6C57991D7971D60040CCA3 /* B_1 Sherlock and Watson Gym Secrets_small.cpp */,
+				DE4F27221D7BF135008D79D3 /* B_2 Sherlock and Watson Gym Secrets.cpp */,
+				DEA7C3901D7E41E6007D4CAA /* C-small.in */,
+				DEA7C3911D7E4210007D4CAA /* C-small.out */,
+				DEA7C3921D7E4BFD007D4CAA /* gcj Round B APAC Test 2017 */,
 			);
 			path = "gcj Round B APAC Test 2017";
 			sourceTree = "<group>";
@@ -137,6 +146,7 @@
 				DE56C49A1D785136003B445D /* main.cpp in Sources */,
 				DE6C579A1D7971D60040CCA3 /* B_1 Sherlock and Watson Gym Secrets_small.cpp in Sources */,
 				DE56C4A41D785A3D003B445D /* A.cpp in Sources */,
+				DE4F27241D7BF135008D79D3 /* B_2 Sherlock and Watson Gym Secrets.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
